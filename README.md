@@ -1,4 +1,4 @@
-## Name : Sandeeep V
+## Name : Sandeep V
 ## Reg no : 212223040179
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
